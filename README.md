@@ -73,7 +73,14 @@ This project builds a classification model that predicts the type of failure in 
 
 ## 📜 Certifications
 IBM Certifications were earned during the completion of this project.
-![Getting Started With AI](https://drive.google.com/uc?export=view&id=1lQwRvRBL9U1GrAiuj73taL_sk3vBySn4)
+## 📸 Project Images
+
+![RAG Lab](https://raw.githubusercontent.com/ShubhamSarwar/Predictive-Maintenance-of-Industrial-Machinery/main/CompletionCertificate_SkillsBuild_page-0001.jpg)
+
+![Getting Started With AI](https://raw.githubusercontent.com/ShubhamSarwar/Predictive-Maintenance-of-Industrial-Machinery/main/IBMDesign20250724-32-3ph2t4_page-0001.jpg)
+
+![Journey To Cloud](https://raw.githubusercontent.com/ShubhamSarwar/Predictive-Maintenance-of-Industrial-Machinery/main/IBMDesign20250724-33-93axki_page-0001.jpg)
+
 
 
 
