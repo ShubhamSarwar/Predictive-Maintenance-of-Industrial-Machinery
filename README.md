@@ -74,7 +74,7 @@ This project builds a classification model that predicts the type of failure in 
 ## 📜 Certifications
 IBM Certifications were earned during the completion of this project.
 
-![Completion Certificate](https://raw.githubusercontent.com/ShubhamSarwar/Predictive-Maintenance-of-Industrial-Machinery/main/Completion%20Certificate%20_SkillsBuild_page-0001.jpg)
+![Completion Certificate](https://raw.githubusercontent.com/ShubhamSarwar/Predictive-Maintenance-of-Industrial-Machinery/main/Completion%20Certificate%20_SkillsBuild.jpg)
 
 ![IBM Design Screenshot 1](https://raw.githubusercontent.com/ShubhamSarwar/Predictive-Maintenance-of-Industrial-Machinery/main/IBMDesign20250724-32-3ph2t4_page-0001.jpg)
 
